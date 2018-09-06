@@ -1,0 +1,24 @@
+hero_image: images/getting-started-with-raspberry-pi.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
+title: Démarrer avec le Raspberry Pi
+description: Au cours de ce projet, vous brancherez un ordinateur Raspberry Pi et découvrirez ce qu'il peut faire.
+original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
+interests: ''
+technologies: raspberry-pi
+site_areas: projects
+hardware: raspberry-pi
+software: ''
+version: 4.1.0
+last_tested: 2017-01-01
+steps: 
+- title: Introduction
+- title: Faites connaissance avec le Raspberry Pi
+- title: Branchez votre Pi
+- title: Une visite du Pi
+- title: Navigation Internet (facultatif)
+- title: 'Défi: Explorez le Pi'
