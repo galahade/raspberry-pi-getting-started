@@ -1,62 +1,62 @@
-## Một vòng khám phá Raspberry Pi
+## A tour of the Raspberry Pi
 
-Bây giờ là lúc để khám phá Pi Raspberry.
+Now it's time to take a tour of the Raspberry Pi.
 
-+ Thấy biểu tượng Quả mân xôi (Raspberry) ở góc trên bên trái chứ? Đó là nơi bạn truy cập vào menu: nhấp vào nó và bạn sẽ tìm thấy rất nhiều ứng dụng.
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
-+ Nhấp vào **Accessories** và chọn **Text Editor**.
++ Click **Accessories** and choose **Text Editor**.
 
-![ảnh chụp màn hình](images/pi-accessories.png)
+![screenshot](images/pi-accessories.png)
 
-+ Nhập `I just built a Raspberry Pi` trong cửa sổ xuất hiện.
++ Type `I just built a Raspberry Pi` in the window that appears.
 
-![ảnh chụp màn hình](images/pi-text-editor.png)
+![screenshot](images/pi-text-editor.png)
 
-+ Nhấp vào **File**, sau đó chọn **Save**, rồi nhấp vào **Desktop** và lưu tệp dưới tên `rp.txt`.
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
-![ảnh chụp màn hình](images/pi-save.png)
+![screenshot](images/pi-save.png)
 
-+ Bạn sẽ thấy một biểu tượng có tên `rp.txt` xuất hiện trên màn hình nền.
++ You should see an icon named `rp.txt` appear on the desktop.
 
-![ảnh chụp màn hình](images/pi-saved.png)
+![screenshot](images/pi-saved.png)
 
-Tệp của bạn đã được lưu vào thẻ SD của Raspberry Pi.
+Your file has been saved to the Raspberry Pi's SD card.
 
-+ Đóng trình chỉnh sửa văn bản bằng cách nhấp vào **X** ở góc trên cùng bên phải của cửa sổ.
++ Close the text editor by clicking the **X** in the top right-hand corner of the window.
 
-+ Quay lại menu Raspberry, chọn **Shutdown**, sau đó chọn **Reboot** để khởi động lại.
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ Khi Pi đã khởi động lại, tệp của bạn sẽ vẫn ở đó.
++ When the Pi has rebooted, your file should still be there.
 
-+ Raspberry Pi chạy một phiên bản của một hệ điều hành được gọi là Linux (Windows và MacOS là các hệ điều hành khác). Nó cho phép bạn thực hiện mọi thứ bằng cách gõ lệnh thay vì nhấp vào các tùy chọn menu. Nhấp vào **Terminal** ở trên cùng màn hình:
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to make things happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
-![ảnh chụp màn hình](images/pi-command-prompt.png)
+![screenshot](images/pi-command-prompt.png)
 
-+ Trong cửa sổ xuất hiện, gõ:
++ In the window that appears, type:
 
     ls
     
 
-và sau đó nhấn <kbd>Enter</kbd> trên bàn phím.
+and then press <kbd>Enter</kbd> on the keyboard.
 
-Thao tác này sẽ liệt kê các tệp trong thư mục `home` của bạn.
+This will list the files in your `home` directory.
 
-+ Bây giờ gõ lệnh này để **c**hange **d**irectory (điều hướng) vào Desktop:
++ Now type this command to **c**hange **d**irectory to the Desktop:
 
     cd Desktop
     
 
-Bạn phải nhấn phím <kbd>Enter</kbd> sau mỗi lệnh.
+You have to press the <kbd>Enter</kbd> key after every command.
 
-Gõ:
+Type:
 
     ls
     
 
-Bạn có thấy tệp tin bạn đã tạo không?
+Can you see the file you created?
 
-+ Đóng cửa sổ Terminal bằng cách nhấp vào **X**.
++ Close the terminal window by clicking on the **X**.
 
-+ Bây giờ kéo `rp.txt` vào Wastebasket trên màn hình nền để Pi sẵn sàng cho người tiếp theo.
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
     
-    ![ảnh chụp màn hình](images/pi-waste.png)
+    ![screenshot](images/pi-waste.png)
