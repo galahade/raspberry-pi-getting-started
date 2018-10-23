@@ -1,21 +1,21 @@
-## Introducere
+## Introduction
 
-În acest proiect te vei conecta la un calculator Raspberry Pi și vei afla ce poate face.
+In this project you will connect up a Raspberry Pi computer and find out what it can do.
 
-### Ce vei face
+### What you will make
 
-Raspberry Pi este un mic calculator care poate face multe lucruri. Conectează-i un monitor și atașează-i o tastatură și un mouse.
+The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
 
-![captură de ecran](images/pi-plug-in.gif)
+![screenshot](images/pi-plug-in.gif)
 
-### Ce veți învăța
+### What you will learn
 
-Acest proiect acoperă elemente din următoarele componente [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Utilizați componente digitale, analogice și electromecanice de bază](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
 
-### Informații suplimentare pentru educatori
+### Additional information for educators
 
-Dacă aveți nevoie să imprimați acest proiect, vă rugăm să utilizați [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-Utilizați link-ul din subsolul paginii pentru a accesa depozitul GitHub pentru acest proiect, care conține toate resursele (inclusiv un exemplu de proiect finalizat) în directorul "en/resources".
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
