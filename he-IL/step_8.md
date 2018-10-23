@@ -1,13 +1,13 @@
-\--- אתגר \---
+\--- challenge \---
 
-## האתגר: לחקור את הראספברי פאי
+## Challenge: explore the Raspberry Pi
 
-צא לסיור בתפריט - האם תוכל למצוא:
+Take a tour of the menu — can you find:
 
-+ גירסה של סקראטץ'?
++ A version of Scratch?
 
 + משחק פייתון לשחק?
 
-+ גרסה של מיינקראפט שאתה יכול לתכנת?
++ A version of Minecraft that you can program?
 
-\--- /אתגר \---
+\--- /challenge \---
