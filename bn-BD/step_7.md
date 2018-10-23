@@ -1,6 +1,6 @@
-## ওয়েব ব্রাউজিং
+## Browsing the web
 
-আপনি ইন্টারনেটে আপনার রাস্পবেরি পাই সংযোগ করতে চান। If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
+You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
 + Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
@@ -30,14 +30,14 @@ Once you Wi-Fi country is set, you can connect to a wireless network.
 
 \--- /collapse \---
 
-+ আপনার ওয়্যারলেস নেটওয়ার্কের জন্য পাসওয়ার্ড টাইপ করুন, বা আপনার জন্য এটি টাইপ করতে প্রাপ্তবয়স্ককে জিজ্ঞাসা করুন, তারপর **ওকে** এ ক্লিক করুন।
++ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
 
 ![Type in password](images/type-password.png)
 
-+ যখন আপনার Pi ইন্টারনেটে সংযুক্ত হয় তখন আপনি লাল ক্রসের পরিবর্তে একটি বেতার LAN প্রতীক দেখতে পাবেন।
++ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
 
 ![screenshot](images/pi-wifi.png)
 
-+ ওয়েব ব্রাউজার আইকনে ক্লিক করুন এবং `রাস্পবেরী পিই` অনুসন্ধান করুন।
++ Click the web browser icon and search for `raspberry pi`.
 
 ![screenshot](images/pi-browser.png)
