@@ -1,21 +1,21 @@
-## Cyflwyniad
+## Introduction
 
-Yn y prosiect hwn, byddwch yn cysylltu â chyfrifiadur Pi Mws a darganfod beth y gall ei wneud.
+In this project you will connect up a Raspberry Pi computer and find out what it can do.
 
-### Beth fyddwch chi'n ei wneud
+### What you will make
 
-Mae'r Mws Coch yn gyfrifiadur bach sy'n gallu gwneud llawer o bethau. Rydych chi'n ei osod yn fonitro ac yn atodi bysellfwrdd a llygoden.
+The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
 
 ![screenshot](images/pi-plug-in.gif)
 
-### Beth fyddwch chi'n ei ddysgu
+### What you will learn
 
-Mae'r prosiect hwn yn cwmpasu elfennau o'r llinynnau canlynol o'r [Mafon Digidol Mafon Cwricwlwm](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Defnyddio cydrannau digidol, analog, ac electromecanyddol sylfaenol](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
 
-### Gwybodaeth ychwanegol i addysgwyr
+### Additional information for educators
 
-Os oes angen i chi argraffu'r prosiect hwn, defnyddiwch y fersiwn [o argraffydd](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-Defnyddiwch y ddolen yn y footer i gael mynediad at y storfa GitHub ar gyfer y prosiect hwn, sy'n cynnwys yr holl adnoddau (gan gynnwys prosiect gorffenedig enghreifftiol) yn y ffolder 'en / resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
