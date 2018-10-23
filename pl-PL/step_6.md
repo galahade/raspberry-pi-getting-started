@@ -2,53 +2,53 @@
 
 Teraz czas na wycieczkę po Raspberry Pi.
 
-+ Widzisz, że Raspberry jest w lewym górnym rogu? To tam masz dostęp do menu: kliknij na niego, a znajdziesz wiele aplikacji.
++ Widzisz, tą malinę w lewym górnym rogu? To tam masz dostęp do menu: kliknij na niego, a znajdziesz wiele aplikacji.
 
-+ Kliknij **Akcesoria** i wybierz **Edytor tekstu**.
++ Kliknij **Accessories** i wybierz **Text Editor**.
 
-![zrzut ekranu](images/pi-accessories.png)
+![screenshot](images/pi-accessories.png)
 
-+ Wpisz `Właśnie zbudowałem Raspberry Pi` w oknie, które się pojawi.
++ Wpisz `Właśnie zbudowałem Komputer na Raspberry Pi` w oknie, które się pojawi.
 
-![zrzut ekranu](images/pi-text-editor.png)
+![screenshot](images/pi-text-editor.png)
 
-+ Kliknij **Plik**, następnie wybierz **Zapisz**, a następnie kliknij **Pulpit** i zapisz plik jako `rp.txt`.
++ Kliknij **File**, następnie wybierz **Save**, a następnie kliknij **Desktop** i zapisz plik jako `rp.txt`.
 
-![zrzut ekranu](images/pi-save.png)
+![screenshot](images/pi-save.png)
 
 + Na pulpicie powinna się pojawić ikona o nazwie `rp.txt`.
 
-![zrzut ekranu](images/pi-saved.png)
+![screenshot](images/pi-saved.png)
 
 Twój plik został zapisany na karcie SD Raspberry Pi.
 
 + Zamknij edytor tekstu, klikając **X** w prawym górnym rogu okna.
 
-+ Wróć do menu Malinowy, wybierz **Wyłączenie**, a następnie wybierz **Ponowne uruchomienie**.
++ Wróć do menu Malinowy, wybierz **Shutdown**, a następnie wybierz **Reboot**.
 
 + Po ponownym uruchomieniu Pi plik powinien nadal tam być.
 
-+ Raspberry Pi uruchamia wersję systemu operacyjnego o nazwie Linux (Windows i macOS to inne systemy operacyjne). It allows you to make things happen by typing commands instead of clicking on menu options. Kliknij **Terminal** u góry ekranu:
++ Raspberry Pi uruchamia wersję systemu operacyjnego o nazwie Linux (Windows i macOS to inne systemy operacyjne). Pozwala na robienie rzeczy, wpisując polecenia zamiast klikając na opcje menu. Kliknij **Terminal** u góry ekranu:
 
-![zrzut ekranu](images/pi-command-prompt.png)
+![screenshot](images/pi-command-prompt.png)
 
 + W wyświetlonym oknie wpisz:
 
     ls
     
 
-a następnie naciśnij <kbd>Wprowadź</kbd> na klawiaturze.
+następnie naciśnij <kbd>Enter</kbd> na klawiaturze.
 
 Spowoduje to wyświetlenie listy plików w twoim katalogu `home`.
 
-+ Teraz wpisz tę komendę na **c**hange **d**Popraw tłumaczenie na pulpit:
++ Teraz wpisz to polecenie na **c**hange **d**irectory Desktop. (z ang. zmień katalog na Desktop):
 
     cd Desktop
     
 
 Po każdym poleceniu musisz nacisnąć klawisz <kbd>Enter</kbd>.
 
-Rodzaj:
+Type:
 
     ls
     
@@ -57,6 +57,6 @@ Czy widzisz plik, który utworzyłeś?
 
 + Zamknij okno terminala, klikając **X**.
 
-+ Teraz przeciągnij `rp.txt` do kosza na pulpicie, aby Pi było gotowe na następną osobę.
++ Teraz przeciągnij `rp.txt` do kosza na pulpicie, aby Pi było gotowe dla następnej osoby.
     
-    ![zrzut ekranu](images/pi-waste.png)
+    ![screenshot](images/pi-waste.png)
