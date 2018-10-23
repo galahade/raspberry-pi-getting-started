@@ -1,43 +1,43 @@
 ## גלישה באינטרנט
 
-ייתכן שתרצה לחבר את הראספברי פאי שלך לאינטרנט. אם לא חברת כבל רשת או לא התחברת לרשת אלחוטית במהלך ההתקנה, תוכל להתחבר כעת.
+You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-+ לחץ על הסמל עם הצלבים האדומים בפינה הימנית העליונה של המסך, ובחר את הרשת האלחוטית שלך מהתפריט הנפתח. ייתכן שיהיה עליך לשאול את המדריך איזו רשת אתה צריך לבחור.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![אין רשת אלחוטית](images/no-wifi.png)
+![No wifi](images/no-wifi.png)
 
 \--- collapse \---
 
 * * *
 
-## title: הגדרת מדינה ברשת האלחוטית
+## title: Set Wi-Fi Country
 
-אם אתה רואה את ההודעה "הגדר את המדינה בכרטיסית המקום' בעת ניסיון להתחבר לרשת האלחוטית שלך:
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-![להגדיר את המדינה ברשת האלחוטית](images/pi-set-wifi-country.png)
+![set wifi country](images/pi-set-wifi-country.png)
 
-+ בחר ** העדפות ** ולאחר מכן ** תצורת ראספברי פאי ** מהתפריט.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ עבור אל לשונית ה** מיקום **.
++ Go to the **Localisation** tab.
 
-+ לחץ על לַחְצָן** הגדרת ארץ **.
++ Click the **Set WiFi Country** button.
 
-![בחר מדינה ברשת האלחוטית](images/pi-select-wifi-country.png)
+![select wifi country](images/pi-select-wifi-country.png)
 
-+ בחר את המדינה שלך מהרשימה ולחץ על ** אישור **.
++ Select your country from the list and click **OK**.
 
-לאחר הגדרת המדינה, תוכל להתחבר לרשת אלחוטית.
+Once you Wi-Fi country is set, you can connect to a wireless network.
 
 \--- /collapse \---
 
 + הקלד את הסיסמה עבור הרשת האלחוטית שלך, או בקש מבוגר להקליד אותה עבורך ולאחר מכן לחץ על **אישור**.
 
-![הקלד את הסיסמה שלך](images/type-password.png)
+![Type in password](images/type-password.png)
 
-+ כאשר ה-ראספברי פאי מחובר לאינטרנט, תראה סמל רשת אלחוטית במקום הצלבים האדומים.
++ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
 
-![צילום מסך](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
-+ לחץ על סמל דפדפן האינטרנט וחפש ` raspberry pi `.
++ Click the web browser icon and search for `raspberry pi`.
 
-![צילום מסך](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
