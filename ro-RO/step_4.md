@@ -1,51 +1,51 @@
-## Conectează-ți Raspberry Pi
+## Connect your Raspberry Pi
 
-Haide să ne conectăm la Raspberry Pi și să-i dăm drumul.
+Let's connect up your Raspberry Pi and get it running.
 
-+ Verificați dacă Raspberry Pi are deja o cartelă SD în slotul din partea inferioară și, dacă nu, introduceți un card SD cu Raspbian instalat (prin intermediul NOOBS).
++ Check whether your Raspberry Pi already has an SD card in the slot at the underside, and if not, insert an SD card with Raspbian installed (via NOOBS).
     
-    ![captură de ecran](images/pi-sd.png)
+    ![screenshot](images/pi-sd.png)
 
-**Note:** Majoritatea cardurilor de memorie micro SD cards se livrează în interiorul adaptorului mare — poti scoate cardul afara trăgând de buza de la capat.
+**Note:** Lots of micro SD cards will come inside a larger adapter — you can slide the card out using the lip at the bottom.
 
-![deținatorul cardului sd](images/sd-card-holder.png)
+![sd card holder](images/sd-card-holder.png)
 
 [[[noobs-install]]]
 
-+ Găsește portul USB pentru mouse, și conectează-l la unul din porturile USB din Raspberry Pi (nu contează care).
++ Find the USB connector for your mouse, and connect the mouse to one of the USB port on the Raspberry Pi (it doesn't matter which one).
     
-    ![captură de ecran](images/pi-mouse.png)
+    ![screenshot](images/pi-mouse.png)
 
-+ Conectează tastatura exact în același mod.
++ Connect the keyboard in the same way.
     
-    ![captură de ecran](images/pi-keyboard.png)
+    ![screenshot](images/pi-keyboard.png)
 
-+ Uită-te cu atenție la portul HDMI din Raspberry Pi - observă partea dreapta lungă de sus.
++ Look at the HDMI port on the Raspberry Pi — notice that it has a large flat side on top.
     
-    ![captură de ecran](images/pi-hdmi.png)
+    ![screenshot](images/pi-hdmi.png)
 
-Asigură-te că monitorul este băgat în priză, și e pornit.
+Make sure your monitor is plugged into a wall socket and turned on.
 
-+ Conectează cablul monitorului la portul HDMI al lui Pi - folosește un adaptor dacă e necesar.
++ Connect the monitor cable to the Pi's HDMI port — use an adapter if necessary.
 
-Nimic nu se va afișa încă.
+Nothing will display yet.
 
-+ Dacă doriți să conectați dispozitivul Pi la internet prin cablu, utilizați un cablul de internet pentru a conecta portul internet de pe Raspberry Pi la o priză Internet de pe perete sau de pe routerul dvs. de internet. Nu aveți nevoie să faceți acest lucru dacă veți utiliza WiFi sau dacă nu doriți să vă conectați la internet.
++ If you want to connect the Pi to the internet via Ethernet, use an Ethernet cable to connect the Ethernet port on the Raspberry Pi to an Ethernet socket on the wall or on your internet router. You don't need to do this if you'll be using WiFi or if you don't want to connect to the internet.
 
 ![ethernet](images/pi-ethernet.png)
 
-+ Sunetul va veni de pe ecran dacă are difuzoare sau puteți conecta căști sau difuzoare la mufa audio, dacă le aveți.
++ Sound will come from your screen if it has speakers or you can connect headphones or speakers to the audio jack if you have them.
 
 ![headphones](images/pi-headphones.png)
 
-+ Observați că portul de alimentare micro USB are o latură plană mai lungă deasupra.
++ Notice that the micro USB power port has a longer flat side on top.
 
-Conectați sursa de alimentare la o priză și conectați-o la portul de alimentare micro USB.
+Plug the power supply into a socket and connect it to the micro USB power port.
 
-![captură de ecran](images/pi-power.png)
+![screenshot](images/pi-power.png)
 
-Ar trebui să vezi o lumină roșie pe calculatorul Raspberry Pi si o zmeură pe monitor.
+You should see a red light on the Raspberry Pi and raspberries on the monitor.
 
-Pi va porni în interfața grafică.
+The Pi will boot up into a graphical desktop.
 
-![captură de ecran](images/pi-desktop.png)
+![screenshot](images/pi-desktop.png)
