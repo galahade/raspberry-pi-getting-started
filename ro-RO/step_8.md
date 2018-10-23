@@ -1,13 +1,13 @@
-\--- provocare \---
+\--- challenge \---
 
-## Provocare: Descoperă Raspberry Pi
+## Challenge: explore the Raspberry Pi
 
-Faceți un tur al meniului - puteți găsi:
+Take a tour of the menu — can you find:
 
-+ O versiune a Scratch?
++ A version of Scratch?
 
-+ Un joc Python pentru a juca?
++ A Python game to play?
 
-+ O versiune a programului Minecraft pe care o poți programa?
++ A version of Minecraft that you can program?
 
-\--- /provocare \---
+\--- /challenge \---
