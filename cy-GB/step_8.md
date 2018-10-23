@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Her: mynd i'r afael â'r Raspberry Pi
+## Challenge: explore the Raspberry Pi
 
-Edrycha ar y ddewislen - wyt ti'n gallu gweld:
+Take a tour of the menu — can you find:
 
-+ Fersiwn o Scratch?
++ A version of Scratch?
 
-+ Gêm Python i'w chwarae?
++ A Python game to play?
 
-+ Fersiwn o Minecraft y gelli di ei raglennu?
++ A version of Minecraft that you can program?
 
 \--- /challenge \---
