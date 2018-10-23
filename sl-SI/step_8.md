@@ -1,13 +1,13 @@
-\--- izziv \---
+\--- challenge \---
 
-## Izziv: preučite Raspberry Pi
+## Challenge: explore the Raspberry Pi
 
-Oglejte si meni - lahko najdete:
+Take a tour of the menu — can you find:
 
-+ Različica Scratch?
++ A version of Scratch?
 
-+ Igra Python igrati?
++ A Python game to play?
 
-+ Različica programa Minecraft, ki jo lahko programirate?
++ A version of Minecraft that you can program?
 
-\--- / izziv \---
+\--- /challenge \---
