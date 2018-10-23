@@ -1,13 +1,13 @@
-\--- wyzwanie \---
+\--- challenge \---
 
 ## Wyzwanie: odkryj Raspberry Pi
 
 Zapoznaj się z menu - czy możesz znaleźć:
 
-+ Wersja Scratch?
++ Wersję Scratch?
 
-+ Python do grania?
++ Python game do grania?
 
-+ Wersja Minecrafta, którą możesz zaprogramować?
++ Wersję Minecrafta, którą możesz zaprogramować?
 
-\--- / wyzwanie \---
+\--- /challenge \---
