@@ -1,17 +1,17 @@
 ---
 hero_image: images / getting-started-with-raspberry-pi.png
-theme: rojo
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: 1, diseño-0, programación-0, phys-comp-1, fabricación-0, comunidad-0
+curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
 title: Comenzando con la Raspberry Pi
 description: Configura tu Raspberry Pi y explora lo que puede hacer
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
 technologies: raspberry-pi
-site_areas: proyectos
+site_areas: projects
 hardware: raspberry-pi
 software: ''
 version: 4.1.0
@@ -24,9 +24,9 @@ steps:
   - 
     title: Conoce a la Raspberry Pi
   - 
-    title: Connect your Raspberry Pi
+    title: Conecta tu Raspberry Pi
   - 
-    title: Finish the setup
+    title: Termina la configuración
   - 
     title: Un recorrido por la Raspberry Pi
   - 
