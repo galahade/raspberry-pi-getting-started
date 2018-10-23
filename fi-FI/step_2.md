@@ -1,21 +1,21 @@
-## Mitä tarvitset
+## What you will need
 
-### Laitteisto
+### Hardware
 
-+ Raspberry Pi -tietokone, jossa on SD-kortti
++ A Raspberry Pi computer with an SD card
 
-+ Näyttö kaapelilla (ja tarvittaessa HDMI-sovittimella)
++ A monitor with a cable (and, if needed, an HDMI adaptor)
 
-+ USB-näppäimistö ja hiiri
++ A USB keyboard and mouse
 
-+ Virtalähde
++ A power supply
 
-+ Kuulokkeet tai kaiuttimet (valinnainen)
++ Headphones or speakers (optional)
 
-+ Ethernet-kaapeli (valinnainen)
++ An ethernet cable (optional)
 
-### Ohjelmisto
+### Software
 
-+ Raspbian, asennettu NOOBS: n kautta
++ Raspbian, installed via NOOBS
 
 [[[noobs-install]]]
