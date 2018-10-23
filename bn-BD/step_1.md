@@ -1,21 +1,21 @@
 ## পরিচিতি
 
-এই প্রকল্পে আপনি একটি রাস্পবেরি পিআই কম্পিউটার সংযোগ এবং এটি কি করতে পারেন তা খুঁজে বের করতে হবে।
+In this project you will connect up a Raspberry Pi computer and find out what it can do.
 
-### আপনি কি করতে হবে
+### What you will make
 
-রাস্পবেরী পাই একটি ছোট কম্পিউটার যা অনেক কিছু করতে পারে। আপনি এটি একটি মনিটর মধ্যে প্লাগ এবং একটি কীবোর্ড এবং মাউস সংযুক্ত করুন।
+The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
 
 ![screenshot](images/pi-plug-in.gif)
 
-### আপনি কি শিখতে হবে
+### What you will learn
 
-এই প্রকল্প [রাসবেরি পি ডি ডিজিটাল মেকিং পাঠ্যক্রম](http://rpf.io/curriculum){: টার্গেট = "_ ফাঁকা"} এর নিম্নলিখিত strands থেকে উপাদান অন্তর্ভুক্ত করেছে:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [বেসিক ডিজিটাল, এনালগ এবং ইলেক্ট্রোমেকনিক্যাল উপাদানগুলি ব্যবহার করুন](https://curriculum.raspberrypi.org/physical-computing/creator/){: টার্গেট = "_ ফাঁকা"}
++ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
 
-### শিক্ষাবিদদের জন্য অতিরিক্ত তথ্য
+### Additional information for educators
 
-আপনি যদি এই প্রজেক্টটি প্রিন্ট করতে চান তবে [প্রিন্টার-বন্ধুত্বপূর্ণ সংস্করণ](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"} ব্যবহার করুন।
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-এই প্রোজেক্টের জন্য GitHub সংগ্রহস্থল অ্যাক্সেস করার জন্য পাদলেখের লিঙ্কটি ব্যবহার করুন, যেটি 'এন / সম্পদ' ফোল্ডারে সমস্ত সম্পদ রয়েছে (একটি সমাপ্তি সমাপ্ত প্রকল্প সহ)।
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
