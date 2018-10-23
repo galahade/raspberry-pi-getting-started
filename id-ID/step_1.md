@@ -16,6 +16,6 @@ Proyek ini mencakup elemen dari rangkaian [Kurikulum Digital Making Raspberry Pi
 
 ### Informasi tambahan untuk pendidik
 
-Jika Kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
+Jika Kamu perlu mencetak proyek ini, silakan gunakan [versi cetak](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target = "_ blank"}.
 
 Gunakan tautan di bagian kaki halaman untuk mengakses repositori GitHub untuk proyek ini, yang berisi semua sumber daya (termasuk contoh proyek yang lengkap) di folder 'en/resources'.
