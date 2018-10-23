@@ -1,36 +1,36 @@
-## גלה את הראספברי פאי שלך
+## A tour of the Raspberry Pi
 
-עכשיו הגיע הזמן לגלות את הראספברי פאי.
+Now it's time to take a tour of the Raspberry Pi.
 
-+ רואה את סמל הראספברי פאי בפינה השמאלית העליונה? זה המקום שבו תוכל לגשת לתפריט: לחץ על הסמל, ותוכלו למצוא המון יישומים.
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
 + לחץ על **עזרים** ובחר **עורך טקסט**.
 
-![צילום מסך](images/pi-accessories.png)
+![screenshot](images/pi-accessories.png)
 
-+ הקלד `סיימתי לבנות ראספברי פאי` בחלון שמופיע.
++ Type `I just built a Raspberry Pi` in the window that appears.
 
-![צילום מסך](images/pi-text-editor.png)
+![screenshot](images/pi-text-editor.png)
 
-+ לחץ על **קובץ**, ולאחר מכן בחר **שמור** ולאחר מכן לחץ על **שולחן עבודה** ושמור את הקובץ כ- `rp.txt`.
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
-![צילום מסך](images/pi-save.png)
+![screenshot](images/pi-save.png)
 
 + אתה אמור לראות סמל בשם `rp.txt` בשולחן העבודה.
 
-![צילום מסך](images/pi-saved.png)
+![screenshot](images/pi-saved.png)
 
-הקובץ נשמר בכרטיס הזכרון - SD של ראספברי פאי.
+Your file has been saved to the Raspberry Pi's SD card.
 
 + סגור את עורך הטקסט על ידי לחיצה על **X** בפינה הימנית העליונה של החלון.
 
-+ חזור לתפריט ראספברי פאי, בחר **כבה** ולאחר מכן בחר **אתחול מחדש**.
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ כאשר הראספברי פאי הופעל מחדש, הקובץ שלך עדיין צריך להיות שם.
++ When the Pi has rebooted, your file should still be there.
 
-+ פספל פייס מפעילה גרסה של מערכת הפעלה בשם לינוקס (Windows ו- MacOS הן מערכות הפעלה אחרות). זה מאפשר לך לגרום לדברים לעבוד על ידי הקלדת פקודות במקום לחיצה על אפשרויות התפריט. לחץ על **מסוף** בחלק העליון של המסך:
++ פספל פייס מפעילה גרסה של מערכת הפעלה בשם לינוקס (Windows ו- MacOS הן מערכות הפעלה אחרות). It allows you to make things happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
-![צילום מסך](images/pi-command-prompt.png)
+![screenshot](images/pi-command-prompt.png)
 
 + בחלון שמופיע, הקלד:
 
@@ -41,14 +41,14 @@
 
 פעולה זו תציג את הקבצים בספריה `home` שלך.
 
-+ כעת, הקלד פקודה זו אל **c**hange **d**irectory אל שולחן העבודה:
++ Now type this command to **c**hange **d**irectory to the Desktop:
 
     cd Desktop
     
 
 עליך ללחוץ על המקש <kbd>Enter</kbd> לאחר כל פקודה.
 
-הקלד:
+Type:
 
     ls
     
@@ -57,6 +57,6 @@
 
 + סגור את חלון המסוף על ידי לחיצה על **X**.
 
-+ עכשיו גרור `rp.txt` לסל המחזור שבשולחן העבודה כדי שה- ראספברי פאי יהיה מוכן לתלמיד הבא.
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
     
-    ![צילום מסך](images/pi-waste.png)
+    ![screenshot](images/pi-waste.png)
