@@ -4,7 +4,7 @@ Rzućmy okiem na Raspberry Pi. Powinieneś mieć przed sobą komputer Raspberry 
 
 + Spójrz na swoje Raspberry Pi. Czy możesz znaleźć wszystkie rzeczy oznaczone na schemacie?
 
-![zrzut ekranu](images/pi-labelled-names.png)
+![screenshot](images/pi-labelled-names.png)
 
 + **Porty USB** - służą do podłączenia myszy i klawiatury. Możesz także podłączyć inne komponenty, takie jak dysk USB.
 
@@ -14,7 +14,7 @@ Rzućmy okiem na Raspberry Pi. Powinieneś mieć przed sobą komputer Raspberry 
 
 + **Gniazdo audio** - tutaj możesz podłączyć słuchawki lub głośniki.
 
-+ **Port HDMI** - tu podłączasz monitor (lub projektor), którego używasz do wyświetlania wyjścia z Raspberry Pi. Jeśli twój monitor ma głośniki, możesz również użyć ich do usłyszenia dźwięku.
++ **Port HDMI** - tu podłączasz monitor (lub projektor), którego używasz do wyświetlania obrazu z Raspberry Pi. Jeśli twój monitor ma głośniki, możesz również użyć ich do odtwarzania dźwięku.
 
 + **Złącze zasilania micro USB** - tutaj podłączasz zasilacz. Powinieneś zawsze robić to na końcu, po podłączeniu wszystkich innych komponentów.
 
