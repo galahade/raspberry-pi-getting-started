@@ -1,21 +1,21 @@
-## Dyma'r Raspberry Pi
+## Meet the Raspberry Pi
 
-Beth am edrych ar y Raspberry Pi. Dylai cyfrifiadur Raspberry Pi fod o'th flaen di ar gyfer hyn. Ni ddylid ei gysylltu ag unrhyw beth eto.
+Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
 
-+ Edrycha ar dy Raspberry Pi. Wyt ti'n gallu dod o hyd i'r holl bethau sydd wedi'u labelu ar y diagram?
++ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
 
-![sgrinlun](images/pi-labelled-names.png)
+![screenshot](images/pi-labelled-names.png)
 
-+ **Pyrth USB** - defnyddir y rhain i gysylltu â llygoden a bysellfwrdd. Hefyd, gelli di gysylltu â chydrannau eraill, megis gyriant USB.
++ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
 
-+ **Slot cerdyn SD** - gelli di roi'r cerdyn SD yma. Dyma lle mae meddalwedd y system weithredu a'th ffeiliau di yn cael eu storio.
++ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
 
-+ **Porth Ethernet** - defnyddir hwn i gysylltu'r Raspberry Pi â rhwydwaith â chebl. Hefyd, mae'r Raspberry Pi yn gallu cysylltu â rhwydwaith trwy Rwydwaith Ardal Leol (LAN) diwifr.
++ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
 
-+ **Jac sain** - gelli di gysylltu â chlustffonau neu seinyddion yma.
++ **Audio jack** — you can connect headphones or speakers here.
 
-+ **Porth HDMI** - dyma lle rwyt ti'n cysylltu â'r monitor (neu'r taflunydd) rwyt ti'n ei ddefnyddio i arddangos yr allbwn o'r Raspberry Pi. Os oes gan eich monitor seinyddion, gelli di eu defnyddio nhw i glywed sain hefyd.
++ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
 
-+ **Cysylltydd pŵer micro USB** - dyma lle rwyt ti'n cysylltu â chyflenwad pŵer. Dylet ti wneud hyn olaf bob amser, ar ôl i ti gysylltu dy holl gydrannau eraill.
++ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
 
-+ **Pyrth GPIO** - mae'r rhain yn dy alluogi di i gysylltu cydrannau electronig megis LEDs a botymau i'r Raspberry Pi.
++ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
