@@ -1,31 +1,31 @@
-## Termina la configuración
+## Finish the setup
 
-Cuando enciendes tu Raspberry Pi por primera vez, aparecerá la aplicación **Welcome to Raspberry Pi** que lo guiará a través de la configuración inicial.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Haga clic en ** Siguiente (Next) ** para comenzar la instalación.
++ Click **Next** to start the setup.
 
-+ Establezca su **País (Country)**, **Idioma (Language)** y **Zona Horaria (Timezone)**, luego haga clic en **Siguiente (Next)** otra vez.
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
 ![pi wizard country](images/piwiz2.PNG)
 
-+ Ingrese una nueva contraseña para su Raspberry Pi y haga clic en ** Siguiente (Next) **.
++ Enter a new password for your Raspberry Pi and click **Next**.
 
 ![pi wizard password](images/piwiz3.PNG)
 
-+ Conéctese a su red WiFi seleccionando su nombre, ingresando la contraseña y haciendo clic en ** Siguiente (Next) **.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-** Nota: ** si su modelo Raspberry Pi no tiene conectividad inalámbrica, no verá esta pantalla.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Haga clic en ** Siguiente (Next)** deje que el asistente verifique las actualizaciones de Raspbian y que las instale (esto podría demorar un poco).
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
 ![pi wizard updating](images/piwiz6.PNG)
 
-+ Haga clic en ** Listo (Done)** o ** Reiniciar (Reboot) ** para terminar la configuración.
++ Click **Done** or **Reboot** to finish the setup.
 
-**Nota:** solo deberá reiniciar si es necesario para completar una actualización.
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
 ![pi wizard complete](images/piwiz7.PNG)
