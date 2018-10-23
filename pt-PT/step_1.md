@@ -1,21 +1,21 @@
-## Introdução
+## Introduction
 
-Neste projeto, você conectará um computador Raspberry Pi e descobrirá o que ele pode fazer.
+In this project you will connect up a Raspberry Pi computer and find out what it can do.
 
-### O que você vai fazer
+### What you will make
 
-O Raspberry Pi é um pequeno computador que pode fazer muitas coisas. Você o conecta a um monitor e anexa um teclado e um mouse.
+The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
 
-![captura de tela](images/pi-plug-in.gif)
+![screenshot](images/pi-plug-in.gif)
 
-### O que você vai aprender
+### What you will learn
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank"}:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Usar componentes básicos digitais, analógicos e eletromecânicos](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
 
-### Informações adicionais para educadores
+### Additional information for educators
 
-Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){: target = "_ blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-Use o link no rodapé para acessar o repositório do GitHub para este projeto, que contém todos os recursos (incluindo um exemplo de projeto concluído) na pasta 'en / resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
