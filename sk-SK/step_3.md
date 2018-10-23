@@ -4,7 +4,7 @@ Poďme sa pozrieť na Raspberry Pi. Počítač by ste mali mať pred sebou. Zati
 
 + Pozrite sa na vaše Raspberry Pi. Viete na ňom nájsť všetky časti označené na obrázku?
 
-![screenshot](images/pi-labelled-names.png)
+![snímka obrazovky](images/pi-labelled-names.png)
 
 + **USB porty** - slúžia na pripojenie myši a klávesnice. Môžete však pripojiť aj iné zariadenia, ako napríklad USB disk.
 
