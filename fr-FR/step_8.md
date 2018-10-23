@@ -1,8 +1,8 @@
 \--- défi \---
 
-## Défi: explorez le Raspberry Pi
+## Défi: explore le Raspberry Pi
 
-Faites un tour du menu - pouvez-vous trouver:
+Fais un tour du menu - peux-tu trouver:
 
 + Une version de Scratch?
 
