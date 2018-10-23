@@ -1,31 +1,31 @@
-## Zakończ konfigurację
+## Finish the setup
 
-Po uruchomieniu Raspberry Pi po raz pierwszy, wyświetli się Aplikacja** Welcome to Raspberry Pi ** i poprowadzi Cię przez początkową konfigurację.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
 ![pi wizard](images/piwiz.gif)
 
-+ Kliknij **Next** aby rozpocząć konfigurację.
++ Click **Next** to start the setup.
 
-+ Ustaw swój **Country**(kraj), **Language**(Język) i **Timezone** (Strefę czasową), następnie ponownie kliknij **Next**.
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
 ![pi wizard country](images/piwiz2.PNG)
 
-+ Wprowadź nowe hasło do swojego Raspberry Pi i kliknij **Next**.
++ Enter a new password for your Raspberry Pi and click **Next**.
 
 ![pi wizard password](images/piwiz3.PNG)
 
-+ Połącz się z siecią Wi-Fi, wybierając jej nazwę, wprowadzając hasło i klikając **Next**.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
 ![pi wizard wifi](images/piwiz4.PNG)
 
-** Uwaga: ** jeśli twój model Raspberry Pi nie ma łączności bezprzewodowej, nie zobaczysz tego ekranu.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Kliknij **Next** pozwól kreatorowi sprawdzić aktualizacje Raspbian i je zainstalować (może to chwilę potrwać).
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
 ![pi wizard updating](images/piwiz6.PNG)
 
-+ Kliknij **Done** lub **Reboot** aby zakończyć konfigurację.
++ Click **Done** or **Reboot** to finish the setup.
 
-** Uwaga: ** będziesz musiał ponownie uruchomić komputer, jeśli jest to konieczne do ukończenia aktualizacji.
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
 ![pi wizard complete](images/piwiz7.PNG)
