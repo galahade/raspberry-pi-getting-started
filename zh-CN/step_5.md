@@ -1,31 +1,31 @@
-## 完成设置
+## Finish the setup
 
-当您第一次启动树莓派时，将弹出 **欢迎使用树莓派** 应用程序并引导您完成初始设置。
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-![pi设置向导](images/piwiz.gif)
+![pi wizard](images/piwiz.gif)
 
-+ 单击 **下一步** 开始设置。
++ Click **Next** to start the setup.
 
-+ 设置您的 **国家**， **语言**和 **时区**，然后再次单击 **下一步** 。
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-![pi 设置向导 国家](images/piwiz2.PNG)
+![pi wizard country](images/piwiz2.PNG)
 
-+ 输入树莓派的新密码，然后单击 **下一步**。
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-![pi设置向导 密码](images/piwiz3.PNG)
+![pi wizard password](images/piwiz3.PNG)
 
-+ 选择要连接的WIFI网络名称，输入密码，然后点击 **下一步**完成连接。
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-![pi设置向导 wifi](images/piwiz4.PNG)
+![pi wizard wifi](images/piwiz4.PNG)
 
-**注意：** 如果您的树莓派型号没有无线连接，您将看不到这些内容。
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ 单击 **下一步** 让设置向导检查Raspbian的更新并安装它们（这可能需要一段时间）。
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-![pi设置向导 更新](images/piwiz6.PNG)
+![pi wizard updating](images/piwiz6.PNG)
 
-+ 单击**完成**或**重新启动**完成设置。
++ Click **Done** or **Reboot** to finish the setup.
 
-**注意：** 只有当完成更新需要重启时，你才重启系统。
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-![pi设置向导 完成](images/piwiz7.PNG)
+![pi wizard complete](images/piwiz7.PNG)
