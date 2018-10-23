@@ -1,6 +1,6 @@
-## Brskanje po spletu
+## Browsing the web
 
-Morda boste želeli povezati vašega Raspberry Pi na internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
+You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
 + Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
@@ -30,14 +30,14 @@ Once you Wi-Fi country is set, you can connect to a wireless network.
 
 \--- /collapse \---
 
-+ Vnesite geslo za brezžično omrežje ali prosite odrasle osebe, naj ga vnese, nato pa kliknite **OK**.
++ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
 
 ![Type in password](images/type-password.png)
 
-+ Ko je vaš Pi priključen na internet, boste namesto rdečih križic videli simbol brezžičnega omrežja LAN.
++ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
 
 ![screenshot](images/pi-wifi.png)
 
-+ Kliknite ikono spletnega brskalnika in poiščite `malina pi`.
++ Click the web browser icon and search for `raspberry pi`.
 
 ![screenshot](images/pi-browser.png)
