@@ -1,31 +1,31 @@
-## Finish the setup
+## Termina la configuración
 
-When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+Cuando empieces tu Raspberry Pi por la primera vez, ** Bienvenido a Raspberry Pi ** La aplicación se abrirá y te guiará a través de la configuración inicial.
 
-![pi wizard](images/piwiz.gif)
+![usar el asistente](images/piwiz.gif)
 
-+ Click **Next** to start the setup.
++ Haz clic ** después ** para empezar la configuración.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
-
-![pi wizard country](images/piwiz2.PNG)
-
-+ Enter a new password for your Raspberry Pi and click **Next**.
-
-![pi wizard password](images/piwiz3.PNG)
-
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
-
-![pi wizard wifi](images/piwiz4.PNG)
-
-**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
-
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
-
-![pi wizard updating](images/piwiz6.PNG)
-
-+ Click **Done** or **Reboot** to finish the setup.
-
-**Note:** you will only need to reboot if that's necessary to complete an update.
-
-![pi wizard complete](images/piwiz7.PNG)
++ Da tu ** país **, ** Idioma </0, y ** Zona horaria **, después haga click**después**otra vez.</p></li> </ul> 
+    
+    ![asistente del país](images/piwiz2.PNG)
+    
+    + Ingresa una contraseña nueva para tu Raspberry Pi y haz click ** después **.
+    
+    ![contraseña del asistente pi](images/piwiz3.PNG)
+    
+    + Conecta tu red de WiFi seleccionando su nombre, ingresando la contraseña, y haciendo clic ** después **.
+    
+    ![asistente pi del wifi](images/piwiz4.PNG)
+    
+    ** Nota: ** si tu modelo de Raspberry Pi no tiene conectividad inalámbrica, no verás esta pantalla.
+    
+    + Haz clic ** después ** deja que el asistente mire por actualizaciones ene l Raspbian e instálelas (esto puede tomar un tiempo).
+    
+    ![asistente pi actualizando](images/piwiz6.PNG)
+    
+    + Haz clic en ** Listo ** o ** reiniciar ** para finalizar la configuración.
+    
+    ** Nota: ** solo tendrás que reiniciar si es necesario para completar una actualización.
+    
+    ![asistente pi completo](images/piwiz7.PNG)
