@@ -1,62 +1,62 @@
-## Esboniad o'r Raspberry Pi
+## A tour of the Raspberry Pi
 
-Nawr mae'n amser edrych ar y Raspberry Pi.
+Now it's time to take a tour of the Raspberry Pi.
 
-+ Wyt ti'n gweld y Fafonen i fyny yn y gornel chwith uchaf? Dyna lle rwyt ti'n cyrraedd y ddewislen: clicia arni, a byddi di'n dod o hyd i lwyth o raglenni.
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
-+ Clicia **Accessories** a dewis **Text Editor**.
++ Click **Accessories** and choose **Text Editor**.
 
-![sgrinlun](images/pi-accessories.png)
+![screenshot](images/pi-accessories.png)
 
-+ Teipia `Dw i newydd adeiladu Raspberry Pi` yn y ffenestr sy'n ymddangos.
++ Type `I just built a Raspberry Pi` in the window that appears.
 
-![sgrinlun](images/pi-text-editor.png)
+![screenshot](images/pi-text-editor.png)
 
-+ Clicia ar **Ffeil**, yna dewis **Cadw**, ac wedyn clicia ar **Bwrdd Gwaith** a chadw'r ffeil fel `rp.txt`.
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
-![sgrinlun](images/pi-save.png)
+![screenshot](images/pi-save.png)
 
-+ Dylet ti weld eicon o'r enw `rp.txt` yn ymddangos ar y bwrdd gwaith.
++ You should see an icon named `rp.txt` appear on the desktop.
 
-![sgrinlun](images/pi-saved.png)
+![screenshot](images/pi-saved.png)
 
-Mae dy ffeil wedi'i chadw i gerdyn SD y Raspberry Pi.
+Your file has been saved to the Raspberry Pi's SD card.
 
-+ Cau'r golygydd testun gan glicio ar y **X** yng nghornel dde uchaf y ffenestr.
++ Close the text editor by clicking the **X** in the top right-hand corner of the window.
 
-+ Dychwel i ddewislen y Fafonen, dewis **Cau**, ac yna dewis **Ailgychwyn**.
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ Pan fydd y Pi wedi ailgychwyn, dylai dy ffeil fod yno o hyd.
++ When the Pi has rebooted, your file should still be there.
 
-+ Mae'r Raspberry Pi yn defnyddio fersiwn o system weithredu o'r enw Linux (systemau gweithredu eraill ydy Windows a MacOS). It allows you to make things happen by typing commands instead of clicking on menu options. Clicia ar y **Terminal** ar frig y sgrin:
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to make things happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
-![sgrinlun](images/pi-command-prompt.png)
+![screenshot](images/pi-command-prompt.png)
 
-+ Yn y ffenestr sy'n ymddangos, teipia:
++ In the window that appears, type:
 
     ls
     
 
-ac yna pwysa <kbd>Enter</kbd> ar y bysellfwrdd.
+and then press <kbd>Enter</kbd> on the keyboard.
 
-Bydd hyn yn rhestru'r ffeiliau yn dy gyfeiriadur `home`.
+This will list the files in your `home` directory.
 
-+ Nawr, teipia'r gorchymyn hwn er mwyn **n**ewid **c**yfeiriadur i'r Bwrdd Gwaith:
++ Now type this command to **c**hange **d**irectory to the Desktop:
 
     cd Desktop
     
 
-Rhaid i ti bwyso'r fysell <kbd>Enter</kbd> ar ôl pob gorchymyn.
+You have to press the <kbd>Enter</kbd> key after every command.
 
-Teipia:
+Type:
 
     ls
     
 
-Wyt ti'n gallu gweld y ffeil a greaist ti?
+Can you see the file you created?
 
-+ Cau ffenestr y derfynell gan glicio ar y **X**.
++ Close the terminal window by clicking on the **X**.
 
-+ Nawr, llusga `rp.txt` i'r Bin Sbwriel ar y bwrdd gwaith fel y bydd y Pi yn barod ar gyfer y person nesaf.
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
     
-    ![sgrinlun](images/pi-waste.png)
+    ![screenshot](images/pi-waste.png)
