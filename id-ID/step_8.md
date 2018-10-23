@@ -1,4 +1,4 @@
-\--- tantangan \---
+\--- challenge \---
 
 ## Tantangan: jelajahi Raspberry Pi
 
@@ -10,4 +10,4 @@ Ikuti tur di menu - dapatkah Anda menemukan:
 
 + Versi Minecraft yang dapat Anda programkan?
 
-\--- / tantangan \---
+\--- /challenge \---
