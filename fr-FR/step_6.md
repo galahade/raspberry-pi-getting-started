@@ -2,61 +2,61 @@
 
 Il est maintenant temps de faire un tour du Raspberry Pi.
 
-+ Voyez-vous que Raspberry est dans le coin supérieur gauche? C'est là que vous accédez au menu: cliquez dessus, et vous trouverez beaucoup d'applications.
++ Vois-tu la framboise dans le coin supérieur gauche? C'est là que tu peux accéder au menu: clique dessus et tu trouveras plein d'applications.
 
-+ Cliquez sur **Accessoires** et choisissez **Éditeur de texte**.
++ Clique sur **Accessoires** et choisis **Éditeur de texte**.
 
 ![capture d'écran](images/pi-accessories.png)
 
-+ Type `Je viens de construire un Raspberry Pi` dans la fenêtre qui apparaît.
++ Tapes `Je viens de construire un Raspberry Pi` dans la fenêtre qui apparaît.
 
 ![capture d'écran](images/pi-text-editor.png)
 
-+ Cliquez sur **Fichier**, puis choisissez **Enregistrer**, puis cliquez sur **Bureau** et enregistrez le fichier sous le nom `rp.txt`.
++ Clique sur **Fichier**, puis choisis **Enregistrer**, puis clique sur **Bureau** et enregistre le fichier sous le nom `rp.txt`.
 
 ![capture d'écran](images/pi-save.png)
 
-+ Vous devriez voir une icône nommée `rp.txt` apparaître sur le bureau.
++ Tu devrais voir une icône nommée `rp.txt` apparaître sur le bureau.
 
 ![capture d'écran](images/pi-saved.png)
 
-Votre fichier a été enregistré sur la carte SD du Raspberry Pi.
+Ton fichier a été enregistré sur la carte SD du Raspberry Pi.
 
-+ Fermez l'éditeur de texte en cliquant sur le **X** dans le coin supérieur droit de la fenêtre.
++ Ferme l'éditeur de texte en cliquant sur le **X** dans le coin supérieur droit de la fenêtre.
 
-+ Revenez au menu Raspberry, choisissez **Shutdown**, puis choisissez **Reboot**.
++ Reviens au menu Framboise, choisis **Éteindre**, puis choisis **Redémarrer**.
 
-+ Lorsque le Pi a redémarré, votre fichier devrait toujours être là.
++ Une fois que le Pi a redémarré, ton fichier devrait toujours être là.
 
-+ Le Raspberry Pi exécute une version d'un système d'exploitation appelé Linux (Windows et macOS sont d'autres systèmes d'exploitation). It allows you to make things happen by typing commands instead of clicking on menu options. Cliquez sur le **Terminal** en haut de l'écran:
++ Le Raspberry Pi exécute une version d'un système d'exploitation appelé Linux (Windows et macOS sont d'autres systèmes d'exploitation). Cela te permet d'exécuter des action en tapant des commandes plutôt que de cliquer sur des options de menus. Clique sur le **Terminal** en haut de l'écran:
 
 ![capture d'écran](images/pi-command-prompt.png)
 
-+ Dans la fenêtre qui apparaît, tapez:
++ Dans la fenêtre qui apparaît, tape:
 
     ls
     
 
-puis appuyez sur <kbd>Entrez</kbd> sur le clavier.
+puis appuye sur <kbd>Entrez</kbd> sur le clavier.
 
 Cela affichera les fichiers dans votre répertoire `home`.
 
-+ Tapez maintenant cette commande sur **c**hange **d**sur le bureau:
++ Tape maintenant cette commande de changement de répertoire (en anglais **c**hange **d**irectory) pour aller sur le bureau:
 
     cd Desktop
     
 
-Vous devez appuyer sur la touche <kbd>Enter</kbd> après chaque commande.
+Tu dois appuyer sur la touche <kbd>Enter</kbd> après chaque commande.
 
-Type:
+Tape:
 
     ls
     
 
-Pouvez-vous voir le fichier que vous avez créé?
+Peux-tu voir le fichier que tu as créé ?
 
-+ Fermez la fenêtre du terminal en cliquant sur le **X**.
++ Ferme la fenêtre du terminal en cliquant sur le **X**.
 
-+ Faites maintenant glisser `rp.txt` dans la Corbeille sur le bureau pour que le Pi soit prêt pour la prochaine personne.
++ Fais maintenant glisser `rp.txt` dans la Corbeille sur le bureau pour que le Pi soit prêt pour la prochaine personne.
     
     ![capture d'écran](images/pi-waste.png)
