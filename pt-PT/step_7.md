@@ -1,43 +1,43 @@
-## Navegando na net
+## Browsing the web
 
-Podes querer ligar o teu Raspberry Pi à internet. Se não ligaste um cabo Ethernet ou te ligaste a uma rede sem fios durante a instalação, podes ligar-te agora.
+You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-+ Clica no ícone com cruzes vermelhas no canto superior direito do ecrã e seleciona a tua rede de entre as opções do menu. Podes precisar de perguntar a um adulto que rede deves escolher.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![Rede sem fios não disponível](images/no-wifi.png)
+![No wifi](images/no-wifi.png)
 
 \--- collapse \---
 
 * * *
 
-## title: Definir o país da rede sem fios
+## title: Set Wi-Fi Country
 
-Se vires a mensagem "Definir o país da rede sem fios no separador de Localização" ao tentares ligar-te à tua rede sem fios:
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-![definir país de rede sem fios](images/pi-set-wifi-country.png)
+![set wifi country](images/pi-set-wifi-country.png)
 
-+ Seleciona **Preferências** e depois **Configuração** a partir do menu.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Vai para o separador **Localização**.
++ Go to the **Localisation** tab.
 
-+ Clica no botão **Definir país de rede sem fios**.
++ Click the **Set WiFi Country** button.
 
-![selecionar país de rede sem fios](images/pi-select-wifi-country.png)
+![select wifi country](images/pi-select-wifi-country.png)
 
-+ Seleciona o teu país na lista e clica **OK**.
++ Select your country from the list and click **OK**.
 
-Quando o país de rede sem fios estiver definido, podes ligar-te a uma rede sem fios.
+Once you Wi-Fi country is set, you can connect to a wireless network.
 
 \--- /collapse \---
 
-+ Escreve a palavra-passe da tua rede sem fios ou pede a um adulto para a escrever e clica em **OK**.
++ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
 
-![Introduzir a palavra-passe](images/type-password.png)
+![Type in password](images/type-password.png)
 
-+ Quando o teu Raspberry Pi estiver ligado à internet, vais ver um símbolo de rede sem fios em vez das cruzes vermelhas.
++ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
 
-![captura do ecrã](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
-+ Clica no ícone do navegador da Web e procura por `raspberry pi`.
++ Click the web browser icon and search for `raspberry pi`.
 
-![captura do ecrã](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
