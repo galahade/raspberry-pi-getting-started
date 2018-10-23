@@ -14,15 +14,15 @@ Kamu mungkin ingin menghubungkan Raspberry Pi Kamu ke internet. Jika Kamu tidak 
 
 Jika Kamu melihat pesan "Set Wi-Fi Country on Localisation tab" saat mencoba menyambung ke jaringan Wi-Fi Kamu:
 
-![set wifi country](images/pi-set-wifi-country.png)
+![set negara wifi](images/pi-set-wifi-country.png)
 
 + Pilih **Preferences** dan kemudian **Raspberry Pi Configuration** dari menu.
 
-+ Pilih tab **Localisation**.
++ Pilih tab **Lokalisasi**.
 
 + Klik tombol **Set WiFi Country**.
 
-![select wifi country](images/pi-select-wifi-country.png)
+![pilih negara wifi](images/pi-select-wifi-country.png)
 
 + Pilih negara Kamu dari daftar dan klik **OK**.
 
@@ -32,7 +32,7 @@ Setelah negara Wi-Fi Kamu disetel, Kamu dapat terhubung ke jaringan nirkabel.
 
 + Ketik kata sandi untuk jaringan nirkabel Kamu, atau minta orang dewasa untuk mengetikkannya untuk Kamu, lalu klik **OK**.
 
-![Type in password](images/type-password.png)
+![Ketikkan Password](images/type-password.png)
 
 + Ketika Pi Kamu terhubung ke internet, Kamu akan melihat simbol LAN nirkabel dan bukan dua buah silang merah.
 
