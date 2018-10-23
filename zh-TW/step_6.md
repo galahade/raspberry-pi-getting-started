@@ -1,62 +1,62 @@
-## 參觀樹莓派
+## A tour of the Raspberry Pi
 
-現在是時候去參觀Raspberry Pi了。
+Now it's time to take a tour of the Raspberry Pi.
 
-+ 看到在左上角的樹莓？ 這就是你訪問菜單的地方：點擊它，你會發現很多應用程序。
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
-+ 點擊 **附件** ，然後選擇 **文本編輯器**。
++ Click **Accessories** and choose **Text Editor**.
 
-![截圖](images/pi-accessories.png)
+![screenshot](images/pi-accessories.png)
 
-+ 類型 `我剛剛在出現的窗口中構建了Raspberry Pi`。
++ Type `I just built a Raspberry Pi` in the window that appears.
 
-![截圖](images/pi-text-editor.png)
+![screenshot](images/pi-text-editor.png)
 
-+ 單擊 **文件**，然後選擇 **保存**，然後單擊 **桌面** 並將文件另存為 `rp.txt`。
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
-![截圖](images/pi-save.png)
+![screenshot](images/pi-save.png)
 
-+ 您應該看到名為 `的圖標rp.txt` 出現在桌面上。
++ You should see an icon named `rp.txt` appear on the desktop.
 
-![截圖](images/pi-saved.png)
+![screenshot](images/pi-saved.png)
 
-您的文件已保存到Raspberry Pi的SD卡上。
+Your file has been saved to the Raspberry Pi's SD card.
 
-+ 單擊窗口右上角的 **X** 關閉文本編輯器。
++ Close the text editor by clicking the **X** in the top right-hand corner of the window.
 
-+ 返回到樹莓菜單，選擇 **關機**，然後選擇 **重啟**。
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ 當Pi重新啟動時，你的文件應該仍然在那裡。
++ When the Pi has rebooted, your file should still be there.
 
-+ Raspberry Pi運行稱為Linux的操作系統版本（Windows和MacOS是其他操作系統）。 It allows you to make things happen by typing commands instead of clicking on menu options. 點擊屏幕頂部的 **終端**：
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to make things happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
-![截圖](images/pi-command-prompt.png)
+![screenshot](images/pi-command-prompt.png)
 
-+ 在出現的窗口中，輸入：
++ In the window that appears, type:
 
-    LS
+    ls
     
 
-然後按 <kbd>在鍵盤上輸入</kbd>。
+and then press <kbd>Enter</kbd> on the keyboard.
 
-這將列出 `主目錄` 目錄中的文件。
+This will list the files in your `home` directory.
 
-+ 現在，將此命令鍵入 **c**將 **d**目錄更改為桌面：
++ Now type this command to **c**hange **d**irectory to the Desktop:
 
-    cd桌面
+    cd Desktop
     
 
-您必須在每個命令後按 <kbd>Enter</kbd> 鍵。
+You have to press the <kbd>Enter</kbd> key after every command.
 
-類型：
+Type:
 
-    LS
+    ls
     
 
-你能看到你創建的文件嗎？
+Can you see the file you created?
 
-+ 點擊 **X**關閉終端窗口。
++ Close the terminal window by clicking on the **X**.
 
-+ 現在將 `rp.txt` 拖動到桌面上的廢紙簍，以便Pi可以為下一個人準備好。
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
     
-    ![截圖](images/pi-waste.png)
+    ![screenshot](images/pi-waste.png)
