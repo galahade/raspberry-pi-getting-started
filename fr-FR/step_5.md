@@ -1,31 +1,31 @@
-## Termine la configuration
+## Finish the setup
 
-Lorsque tu démarreras ton Raspberry Pi pour la première fois, l'application **Welcome to Rasperry Pi** apparaîtra et te guidera à travers la configuration initiale.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-![assistant pi](images/piwiz.gif)
+![pi wizard](images/piwiz.gif)
 
-+ Clique sur **Next** pour démarrer la configuration.
++ Click **Next** to start the setup.
 
-+ Définis ton **Pays**, ta **Langue**, et ton **Fuseau horaire** et clique sur **Suivant** à nouveau.
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-![assistant pi pays](images/piwiz2.PNG)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Entres un nouveau mot de passe pour ton Raspberry Pi et clique sur **Suivant**.
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-![assistant pi mot de passe](images/piwiz3.PNG)
+![pi wizard password](images/piwiz3.PNG)
 
-+ Connecte-toi à ton réseau WiFi en sélectionnant son nom, en entrant son mot de passe et en cliquant sur **Suivant**.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-![assistant pi wifi](images/piwiz4.PNG)
+![pi wizard wifi](images/piwiz4.PNG)
 
-**Note:** si le model de ton Raspberry Pi n'a pas de connectivité sans fil, tu ne verras pas cet écran.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Clique sur **Suivant** et laisse le logiciel vérifier les mises à jour pour Raspbian et les installer (cela peut prendre un peu de temps).
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-![assistant pi mise à jour](images/piwiz6.PNG)
+![pi wizard updating](images/piwiz6.PNG)
 
-+ Clique sur **Terminer** ou **Redémarrer** pour terminer l'installation.
++ Click **Done** or **Reboot** to finish the setup.
 
-**Note:** tu devras seulement redémarrer si cela est nécessaire pour effectuer une mine mise à jour.
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-![assistant pi terminé](images/piwiz7.PNG)
+![pi wizard complete](images/piwiz7.PNG)
