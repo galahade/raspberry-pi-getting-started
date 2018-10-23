@@ -1,21 +1,21 @@
-## রাস্পবেরি পাই পূরণ করুন
+## Meet the Raspberry Pi
 
-আসুন রাস্পবেরি পাই দেখি আপনি এই জন্য আপনার সামনে একটি রাস্পবেরি Pi কম্পিউটার থাকতে হবে। এটি এখনো কোন কিছু সংযুক্ত করা উচিত নয়।
+Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
 
-+ আপনার রাস্পবেরি পাই দেখুন আপনি ডায়াগ্রাম লেবেল সব জিনিষ খুঁজে পেতে পারেন?
++ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
 
-![স্ক্রিনশট](images/pi-labelled-names.png)
+![screenshot](images/pi-labelled-names.png)
 
-+ **ইউএসবি পোর্ট** - এইগুলি একটি মাউস এবং কীবোর্ড সংযুক্ত করতে ব্যবহৃত হয়। আপনি অন্যান্য উপাদানগুলিও সংযুক্ত করতে পারেন, যেমন একটি USB ড্রাইভ
++ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
 
-+ **এসডি কার্ড স্লট** - আপনি এখানে এসডি কার্ড স্লট করতে পারেন। এই যেখানে অপারেটিং সিস্টেম সফ্টওয়্যার এবং আপনার ফাইল সংরক্ষণ করা হয়।
++ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
 
-+ **ইথারনেট পোর্ট** - এটি একটি রাবারবাটি পিআই একটি তারের সঙ্গে একটি নেটওয়ার্কের সাথে সংযোগ করার জন্য ব্যবহার করা হয়। রবারবেরি পিআইও বেতার ল্যানের মাধ্যমে একটি নেটওয়ার্কের সাথে সংযোগ স্থাপন করতে পারে
++ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
 
-+ **অডিও জ্যাক** - আপনি এখানে হেডফোন বা স্পিকার সংযুক্ত করতে পারেন।
++ **Audio jack** — you can connect headphones or speakers here.
 
-+ **HDMI পোর্ট** - এই যেখানে আপনি মনিটর (বা প্রজেক্টর) যে আপনি রাস্পবেরি Pi থেকে আউটপুট প্রদর্শন ব্যবহার করা হয় সংযুক্ত করা হয়। আপনার মনিটর স্পিকার আছে, আপনি শব্দ শুনতে তাদের ব্যবহার করতে পারেন।
++ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
 
-+ **মাইক্রো ইউএসবি পাওয়ার সংযোগকারী** - এই যেখানে আপনি একটি পাওয়ার সাপ্লাই সংযুক্ত। আপনার সব অন্যান্য উপাদানগুলি সংযুক্ত করার পরে, আপনি সবসময় এই শেষটি করা উচিত।
++ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
 
-+ **জিপিআইআই পোর্ট** - এই আপনাকে রাবারবাটি পিইতে এলইডি এবং বোতামগুলি যেমন ইলেকট্রনিক উপাদানগুলি সংযুক্ত করার অনুমতি দেয়।
++ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
