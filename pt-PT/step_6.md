@@ -1,62 +1,62 @@
-## Um passeio pelo Raspberry Pi
+## A tour of the Raspberry Pi
 
-Agora é altura de fazer uma visita guiada ao Raspberry Pi.
+Now it's time to take a tour of the Raspberry Pi.
 
-+ Veja aquela framboesa no canto superior esquerdo? É aí que tens acesso ao menu: clica nela e vais encontrar muitas aplicações.
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
-+ Clica em **Acessórios** e escolhe **Editor de Texto**.
++ Click **Accessories** and choose **Text Editor**.
 
-![captura de ecrã](images/pi-accessories.png)
+![screenshot](images/pi-accessories.png)
 
-+ Escreve `Acabei de criar um Raspberry Pi` na janela que aparece.
++ Type `I just built a Raspberry Pi` in the window that appears.
 
-![captura de ecrã](images/pi-text-editor.png)
+![screenshot](images/pi-text-editor.png)
 
-+ Clica no **Arquivo**; em seguida, escolhe **Gravar**e, em seguida, clica em **Ambiente de Trabalho** e grava o ficheiro com o nome `rp.txt`.
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
-![captura de ecrã](images/pi-save.png)
+![screenshot](images/pi-save.png)
 
-+ Deves ver um ícone com o nome `rp.txt` no ambiente de trabalho.
++ You should see an icon named `rp.txt` appear on the desktop.
 
-![captura de tela](images/pi-saved.png)
+![screenshot](images/pi-saved.png)
 
-O teu ficheiro foi gravado no cartão SD do Raspberry Pi.
+Your file has been saved to the Raspberry Pi's SD card.
 
-+ Fecha o editor de texto clicando no **X** no canto superior direito da janela.
++ Close the text editor by clicking the **X** in the top right-hand corner of the window.
 
-+ Volta ao menu Framboesa, escolhe **Desligar** e, em seguida, escolhe **Reinicializar**.
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ Quando o Raspberry Pi for reinicializado, seu ficheiro ainda vai estar lá.
++ When the Pi has rebooted, your file should still be there.
 
-+ O Raspberry Pi executa uma versão de um sistema operativo chamado Linux (o Windows e o MacOS são outros sistemas operativos). Permite que faças coisas acontecer escrevendo comandos em vez de clicar nas opções de um menu. Clica no **Terminal** no topo do ecrã:
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to make things happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
-![captura de ecrã](images/pi-command-prompt.png)
+![screenshot](images/pi-command-prompt.png)
 
-+ Na janela que aparece, escreve:
++ In the window that appears, type:
 
     ls
     
 
-e depois carrega em <kbd>Enter</kbd> no teclado.
+and then press <kbd>Enter</kbd> on the keyboard.
 
-Isso vai listar os ficheiros na tua `diretoria inicial`.
+This will list the files in your `home` directory.
 
-+ Agora escreve este comando para mudar de diretoria, **c**hange **d**irectory, para o ambiente de trabalho:
++ Now type this command to **c**hange **d**irectory to the Desktop:
 
     cd Desktop
     
 
-Tens de carregar na tecla <kbd>Enter</kbd> após cada comando.
+You have to press the <kbd>Enter</kbd> key after every command.
 
-Escreve:
+Type:
 
     ls
     
 
-Consegues ver o ficheiro que criaste?
+Can you see the file you created?
 
-+ Fecha a janela do terminal clicando no **X**.
++ Close the terminal window by clicking on the **X**.
 
-+ Agora arrasta `rp.txt` para o Caixote do Lixo no ambiente de trabalho para que o Raspberry Pi esteja pronto para a próxima pessoa.
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
     
-    ![captura de ecrã](images/pi-waste.png)
+    ![screenshot](images/pi-waste.png)
