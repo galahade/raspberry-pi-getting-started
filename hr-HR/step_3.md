@@ -1,21 +1,21 @@
-## Upoznaj Raspberry Pi
+## Meet the Raspberry Pi
 
-Bacimo oko na Raspberry Pi. Za to bi trebao imati Raspberry Pi računalo pred sobom. Ne smije još biti povezano s ničim.
+Let's take a look at the Raspberry Pi. You should have a Raspberry Pi computer in front of you for this. It shouldn't be connected to anything yet.
 
-+ Pogledaj svoj Raspberry Pi. Možeš li pronaći sve stvari označene na dijagramu?
++ Look at your Raspberry Pi. Can you find all the things labelled on the diagram?
 
 ![screenshot](images/pi-labelled-names.png)
 
-+ **USB priključci** - koriste se za spajanje miša i tipkovnice. Također možeš spojiti i druge komponente, poput USB pogona.
++ **USB ports** — these are used to connect a mouse and keyboard. You can also connect other components, such as a USB drive.
 
-+ **utor za SD karticu** - ovdje možeš umetnuti SD karticu. Tu se pohranjuju softver operativnog sustava i datoteke.
++ **SD card slot** — you can slot the SD card in here. This is where the operating system software and your files are stored.
 
-+ **Ethernet priključak** - koristi se za spajanje Raspberry Pi računala na mrežu pomoću kabela. Raspberry Pi se također može povezati s mrežom putem bežičnog LAN-a.
++ **Ethernet port** — this is used to connect the Raspberry Pi to a network with a cable. The Raspberry Pi can also connect to a network via wireless LAN.
 
-+ **Audio priključak** - ovdje možeš spojiti slušalice ili zvučnike.
++ **Audio jack** — you can connect headphones or speakers here.
 
-+ **HDMI priključak** - ovdje povezuješ monitor (ili projektor) koji koristiš za prikaz izlaznih podataka iz Raspberry Pi računala. Ako tvoj monitor ima zvučnike, možeš ih koristiti i za slušanje zvuka.
++ **HDMI port** — this is where you connect the monitor (or projector) that you are using to display the output from the Raspberry Pi. If your monitor has speakers, you can also use them to hear sound.
 
-+ **Mikro USB priključak za napajanje** - ovdje spajaš napajanje. Uvijek bi trebao to učiniti posljednje, nakon što spojiš sve druge komponente.
++ **Micro USB power connector** — this is where you connect a power supply. You should always do this last, after you have connected all your other components.
 
-+ **GPIO priključci** - omogućuju ti povezivanje elektroničkih komponenti, poput LED-a i gumba, na Raspberry Pi.
++ **GPIO ports** — these allow you to connect electronic components such as LEDs and buttons to the Raspberry Pi.
