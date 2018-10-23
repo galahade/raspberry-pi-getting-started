@@ -6,30 +6,30 @@ listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
-title: Iniziare con il Raspberry Pi
-description: Imposta il tuo Raspberry Pi ed esplora ciò che può fare
+title: Getting started with the Raspberry Pi
+description: Set up your Raspberry Pi and explore what it can do
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
 technologies: raspberry-pi
-site_areas: progetti
+site_areas: projects
 hardware: raspberry-pi
 software: ''
 version: 4.1.0
-last_tested: 2017/01/01
+last_tested: 2017-01-01
 steps:
   - 
-    title: Introduzione
+    title: Introduction
   - 
-    title: Di cosa avrai bisogno
+    title: What you will need
   - 
-    title: Incontra il Raspberry Pi
+    title: Meet the Raspberry Pi
   - 
     title: Connect your Raspberry Pi
   - 
     title: Finish the setup
   - 
-    title: Tour del Raspberry Pi
+    title: A tour of the Raspberry Pi
   - 
-    title: Navigando nel web
+    title: Browsing the web
   - 
-    title: 'Sfida: esplora il Raspberry Pi'
+    title: 'Challenge: explore the Raspberry Pi'
