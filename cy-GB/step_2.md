@@ -1,21 +1,21 @@
-## Beth fydd ei angen arnat ti
+## What you will need
 
-### Caledwedd
+### Hardware
 
-+ Cyfrifiadur Raspberry Pi gyda cherdyn SD
++ A Raspberry Pi computer with an SD card
 
-+ Monitor gyda chebl (ac, os oes angen, addasydd HDMI)
++ A monitor with a cable (and, if needed, an HDMI adaptor)
 
-+ Bysellfwrdd a llygoden USB
++ A USB keyboard and mouse
 
-+ Cyflenwad pŵer
++ A power supply
 
-+ Clustffonau neu seinyddion (dewisol)
++ Headphones or speakers (optional)
 
-+ Cebl ethernet (dewisol)
++ An ethernet cable (optional)
 
-### Meddalwedd
+### Software
 
-+ Raspbian, wedi'i osod trwy NOOBS
++ Raspbian, installed via NOOBS
 
 [[[noobs-install]]]
