@@ -30,14 +30,14 @@ Once you Wi-Fi country is set, you can connect to a wireless network.
 
 \--- /collapse \---
 
-+ Inserisci la password per la tua rete wireless o chiedi a un adulto di digitarla per te, quindi fai clic su **OK**.
++ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
 
 ![Type in password](images/type-password.png)
 
-+ Quando il tuo Pi è connesso a Internet, vedrai un simbolo LAN wireless al posto dei simboli "x rossi".
++ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
 
 ![screenshot](images/pi-wifi.png)
 
-+ Fare clic sull'icona del browser Web e cercare `raspberry pi`.
++ Click the web browser icon and search for `raspberry pi`.
 
 ![screenshot](images/pi-browser.png)
