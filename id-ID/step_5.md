@@ -22,7 +22,7 @@ Saat Kamu memulai Raspberry Pi untuk pertama kalinya, dialog ** Selamat datang d
 
 + Klik **Next** biarkan wizard memeriksa pembaruan untuk Raspbian dan menginstalnya (ini mungkin memerlukan sedikit waktu).
 
-![pi wizard updating](images/piwiz6.PNG)
+![perbarui pi wizard ](images/piwiz6.PNG)
 
 + Klik **Done** atau **Reboot** untuk menyelesaikan pengaturan.
 
