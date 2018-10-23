@@ -1,35 +1,35 @@
 ---
 hero_image: images/getting-started-with-raspberry-pi.png
-theme: roșu
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
-title: Noțiuni de bază ale Raspberry Pi
-description: Configurează-ți Raspberry Pi să vezi ce poate face
+title: Getting started with the Raspberry Pi
+description: Set up your Raspberry Pi and explore what it can do
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
 technologies: raspberry-pi
-site_areas: proiecte
+site_areas: projects
 hardware: raspberry-pi
 software: ''
 version: 4.1.0
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introducere
+    title: Introduction
   - 
-    title: Ce vei avea nevoie
+    title: What you will need
   - 
-    title: Faceți cunoștință cu Raspberry Pi
+    title: Meet the Raspberry Pi
   - 
-    title: Conecteaza Raspberry Pi
+    title: Connect your Raspberry Pi
   - 
-    title: Finalizează configurarea
+    title: Finish the setup
   - 
-    title: O prezentare a Raspberry Pi
+    title: A tour of the Raspberry Pi
   - 
-    title: Navigarea pe web
+    title: Browsing the web
   - 
-    title: 'Provocare: descopera Raspberry Pi'
+    title: 'Challenge: explore the Raspberry Pi'
