@@ -1,13 +1,13 @@
-\--- haaste \---
+\--- challenge \---
 
-## Haaste: Tutustu Vadelma Pi
+## Challenge: explore the Raspberry Pi
 
-Tutustu valikkoon - voitko löytää:
+Take a tour of the menu — can you find:
 
-+ Scratchin versio?
++ A version of Scratch?
 
-+ Python-peli pelata?
++ A Python game to play?
 
-+ Minecraftin versio, jonka voit ohjelmoida?
++ A version of Minecraft that you can program?
 
-\--- /haaste \---
+\--- /challenge \---
