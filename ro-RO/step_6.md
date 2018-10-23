@@ -1,62 +1,62 @@
-## Prezentare Raspberry Pi
+## A tour of the Raspberry Pi
 
-Acum este timpul să prezentăm un Raspberry Pi.
+Now it's time to take a tour of the Raspberry Pi.
 
-+ Vezi Zmeura aceea în colțul din stânga sus? Aici accesați meniul: faceți clic pe el și veți găsi numeroase aplicații.
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
-+ Faceți clic pe **Accesorii** și selectați **Editor text**.
++ Click **Accessories** and choose **Text Editor**.
 
-![captură de ecran](images/pi-accessories.png)
+![screenshot](images/pi-accessories.png)
 
-+ Tastează `Tocmai am construit un Raspberry Pi` în fereastra care apare.
++ Type `I just built a Raspberry Pi` in the window that appears.
 
-![captură de ecran](images/pi-text-editor.png)
+![screenshot](images/pi-text-editor.png)
 
-+ Faceți clic pe **Fișier**, apoi selectați **Salvați**, apoi faceți clic pe **Desktop** și salvați fișierul ca `rp.txt`.
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
-![captură de ecran](images/pi-save.png)
+![screenshot](images/pi-save.png)
 
-+ Ar trebui să vedeți o pictogramă numită `rp.txt` care apare pe desktop.
++ You should see an icon named `rp.txt` appear on the desktop.
 
-![captură de ecran](images/pi-saved.png)
+![screenshot](images/pi-saved.png)
 
-Fișierul dvs. a fost salvat pe cardul SD al lui Raspberry Pi.
+Your file has been saved to the Raspberry Pi's SD card.
 
-+ Închideți editorul de text făcând clic pe **X** din colțul din dreapta sus al ferestrei.
++ Close the text editor by clicking the **X** in the top right-hand corner of the window.
 
-+ Reveniți la meniul Raspberry, alegeți **Shutdown**, apoi alegeți **Reboot**.
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ Când Pi a repornit, fișierul ar trebui să fie acolo.
++ When the Pi has rebooted, your file should still be there.
 
-+ Raspberry Pi rulează o versiune a unui sistem de operare numit Linux (Windows și MacOS sunt alte sisteme de operare). Acesta îți permite să realizezi anumite lucruri, prin scrierea unor comenzi, fără să mai apeși pe opțiunile meniurilor. Faceți clic pe **Terminal** din partea de sus a ecranului:
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to make things happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
-![captură de ecran](images/pi-command-prompt.png)
+![screenshot](images/pi-command-prompt.png)
 
-+ În fereastra care apare, tastați:
++ In the window that appears, type:
 
     ls
     
 
-apoi apăsați <kbd>Enter</kbd> de pe tastatură.
+and then press <kbd>Enter</kbd> on the keyboard.
 
-Aceasta va lista fișierele din directorul `home`.
+This will list the files in your `home` directory.
 
-+ Acum tastați această comandă la **c**hange **d**irectory pe Desktop:
++ Now type this command to **c**hange **d**irectory to the Desktop:
 
     cd Desktop
     
 
-Trebuie să apăsați tasta <kbd>Enter</kbd> după fiecare comandă.
+You have to press the <kbd>Enter</kbd> key after every command.
 
-Sfat:
+Type:
 
     ls
     
 
-Puteți vedea fișierul pe care l-ați creat?
+Can you see the file you created?
 
-+ Închideți fereastra terminalului făcând clic pe **X**.
++ Close the terminal window by clicking on the **X**.
 
-+ Acum trageți `rp.txt` la Wastebasket pe desktop, astfel încât Pi va fi gata pentru următoarea persoană.
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
     
-    ![captură de ecran](images/pi-waste.png)
+    ![screenshot](images/pi-waste.png)
