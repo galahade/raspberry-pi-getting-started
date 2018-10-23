@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: explore the Raspberry Pi
+## Desafío: explorar la Raspberry Pi
 
-Take a tour of the menu — can you find:
+Haz un recorrido por el menú - puedes encontrar:
 
-+ A version of Scratch?
++ Una versión de Scratch?
 
-+ A Python game to play?
++ Un juego en Python para jugar?
 
-+ A version of Minecraft that you can program?
++ Una versión de Minecraft que puedes programar?
 
 \--- /challenge \---
