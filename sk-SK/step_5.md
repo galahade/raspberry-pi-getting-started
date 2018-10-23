@@ -1,31 +1,31 @@
-## Dokončenie inštalácie
+## Finish the setup
 
-Keď vaše Raspberry Pi spustíte prvýkrát, spustí sa aplikácia **Welcome to Raspberry Pi** a prevedie vás počiatočným nastavením.
+When you start your Raspberry Pi for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-![sprievodca nastavením pi](images/piwiz.gif)
+![pi wizard](images/piwiz.gif)
 
-+ Kliknutím na tlačidlo **Next** sa spustí nastavenie.
++ Click **Next** to start the setup.
 
-+ Nastavte svoju krajinu (**Country**), jazyk (**Language**), a časovú zónu (**Timezone**) a znovu kliknite na tlačidlo **Next**.
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
 
-![sprievodca nastavením pi - nastavenie krajiny](images/piwiz2.PNG)
+![pi wizard country](images/piwiz2.PNG)
 
-+ Zadajte nové heslo pre vaše Raspberry Pi a kliknite na tlačidlo **Next**.
++ Enter a new password for your Raspberry Pi and click **Next**.
 
-![sprievodca nastavením pi - nastavenie hesla](images/piwiz3.PNG)
+![pi wizard password](images/piwiz3.PNG)
 
-+ Pripojte sa k vašej WiFi siete zvolením jej názvu, zadaním hesla a kliknite na tlačidlo **Next**.
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
 
-![sprievodca nastavením pi - nastavenie wifi](images/piwiz4.PNG)
+![pi wizard wifi](images/piwiz4.PNG)
 
-**Poznámka:** Ak vaše Raspberry Pi nemá WiFi, túto obrazovku neuvidíte.
+**Note:** if your Raspberry Pi model doesn't have wireless connectivity, you won't see this screen.
 
-+ Kliknite na tlačidlo **Next** a nechajte sprievodcu skontrolovať dostupné aktualizácie pre Raspbian (tento krok môže chvíľu trvať).
++ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
 
-![sprievodca nastavením pi - aktualizácia](images/piwiz6.PNG)
+![pi wizard updating](images/piwiz6.PNG)
 
-+ Pre dokončenie inštalácie kliknite na tlačidlo **Done** alebo **Reboot**.
++ Click **Done** or **Reboot** to finish the setup.
 
-**Poznámka:** reštart bude potrebný len vtedy, ak je nevyhnutný pre dokončenie aktualizácie.
+**Note:** you will only need to reboot if that's necessary to complete an update.
 
-![koniec sprievodcu nastavením pi](images/piwiz7.PNG)
+![pi wizard complete](images/piwiz7.PNG)
