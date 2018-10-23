@@ -1,18 +1,18 @@
 ---
 hero_image: images / getting-started-with-raspberry-pi.png
-theme: 빨간
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
 curriculum: 1, design-0, programming-0, phys-comp-1, manufacture-0, community-0
-title: 라즈베리 파이 시작하기
+title: 라즈베리파이 시작하기
 description: 라즈베리 파이를 설정하고 할 수있는 일을 탐험 해보십시오.
 original_url: https://codeclubprojects.org/en-GB/raspberry-pi/getting-started
 interests: ''
-technologies: 라즈베리 파이
+technologies: 라즈베리파이
 site_areas: 프로젝트들
-hardware: 라즈베리 파이
+hardware: 라즈베리파이
 software: ''
 version: 4.1.0
 last_tested: 2017-01-01
@@ -22,14 +22,14 @@ steps:
   - 
     title: 준비물
   - 
-    title: 라즈베리 파이 만나기
+    title: 라즈베리파이 만나기
   - 
     title: 라즈베리파이 연결
   - 
     title: 설정 마무리하기
   - 
-    title: 라즈베리 파이 투어
+    title: 라즈베리파이 투어
   - 
     title: 웹 브라우징
   - 
-    title: '과제: 라즈베리 파이를 탐험 해보십시오.'
+    title: '과제: 라즈베리 파이를 탐험해 보십시오.'
