@@ -1,62 +1,62 @@
-## Ogled Raspberry Pi
+## A tour of the Raspberry Pi
 
-Zdaj je čas, da si ogledate Raspberry Pi.
+Now it's time to take a tour of the Raspberry Pi.
 
-+ Vidiš, da je Malina v zgornjem levem kotu? Tukaj dostopate do menija: kliknite na to, in našli boste veliko aplikacij.
++ See that Raspberry up in the top left-hand corner? That's where you access the menu: click on it, and you will find lots of applications.
 
-+ Kliknite **Dodatki** in izberite **Urejevalnik besedil**.
++ Click **Accessories** and choose **Text Editor**.
 
 ![screenshot](images/pi-accessories.png)
 
-+ Tip `Pravkar sem zgradil Raspberry Pi` v oknu, ki se pojavi.
++ Type `I just built a Raspberry Pi` in the window that appears.
 
 ![screenshot](images/pi-text-editor.png)
 
-+ Kliknite na **datoteko**, nato izberite **Shrani**in nato kliknite na **namizje** in shranite datoteko kot `rp.txt`.
++ Click on **File**, then choose **Save**, and then click on **Desktop** and save the file as `rp.txt`.
 
 ![screenshot](images/pi-save.png)
 
-+ Na namizju naj se pojavi ikona z imenom `rp.txt`.
++ You should see an icon named `rp.txt` appear on the desktop.
 
 ![screenshot](images/pi-saved.png)
 
-Vaša datoteka je shranjena na SD kartici Raspberry Pi.
+Your file has been saved to the Raspberry Pi's SD card.
 
-+ Zaprite urejevalnik besedil tako, da kliknete **X** v zgornjem desnem kotu okna.
++ Close the text editor by clicking the **X** in the top right-hand corner of the window.
 
-+ Vrnite se v meni Malina, izberite **Shutdown**in izberite **Reboot**.
++ Return to the Raspberry menu, choose **Shutdown**, and then choose **Reboot**.
 
-+ Ko se je Pi ponovno zagnal, mora biti vaša datoteka še vedno tam.
++ When the Pi has rebooted, your file should still be there.
 
-+ Raspberry Pi ima različico operacijskega sistema, imenovanega Linux (Windows in MacOS so drugi operacijski sistemi). It allows you to make things happen by typing commands instead of clicking on menu options. Na vrhu zaslona kliknite **Terminal**:
++ The Raspberry Pi runs a version of an operating system called Linux (Windows and macOS are other operating systems). It allows you to make things happen by typing commands instead of clicking on menu options. Click on the **Terminal** at the top of the screen:
 
 ![screenshot](images/pi-command-prompt.png)
 
-+ V oknu, ki se prikaže, vnesite:
++ In the window that appears, type:
 
     ls
     
 
-in nato pritisnite <kbd>Vnesite</kbd> na tipkovnici.
+and then press <kbd>Enter</kbd> on the keyboard.
 
-To bo prikazalo datoteke v vašem domu `domov`.
+This will list the files in your `home` directory.
 
-+ Zdaj vnesite ta ukaz na **c**hange **d**napačno na namizju:
++ Now type this command to **c**hange **d**irectory to the Desktop:
 
-    cd namizje
+    cd Desktop
     
 
-Za vsakim ukazom morate pritisniti tipko <kbd>Enter</kbd>.
+You have to press the <kbd>Enter</kbd> key after every command.
 
-Tip:
+Type:
 
     ls
     
 
-Ali lahko vidite datoteko, ki ste jo ustvarili?
+Can you see the file you created?
 
-+ Zaprite okno terminala s klikom na **X**.
++ Close the terminal window by clicking on the **X**.
 
-+ Zdaj povlecite `rp.txt` na Wastebasket na namizju, tako da bo Pi pripravljen za naslednjo osebo.
++ Now drag `rp.txt` to the Wastebasket on the desktop so the Pi will be ready for the next person.
     
     ![screenshot](images/pi-waste.png)
