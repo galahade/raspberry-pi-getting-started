@@ -1,6 +1,6 @@
 ## Co będzie potrzebne
 
-### Sprzęt komputerowy
+### Sprzęt
 
 + Komputer Raspberry Pi z kartą SD
 
@@ -8,7 +8,7 @@
 
 + Klawiatura i mysz USB
 
-+ Zasilanie
++ Zasilacz
 
 + Słuchawki lub głośniki (opcjonalnie)
 
