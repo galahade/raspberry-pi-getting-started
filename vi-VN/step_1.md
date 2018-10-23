@@ -1,21 +1,21 @@
-## Giới thiệu
+## Introduction
 
-Trong dự án này, bạn sẽ kết nối chiếc Raspberry Pi và tìm hiểu xem nó có thể làm những gì.
+In this project you will connect up a Raspberry Pi computer and find out what it can do.
 
-### Những gì bạn sẽ làm
+### What you will make
 
-Raspberry Pi là một máy tính nhỏ có thể thực hiện rất nhiều thứ. Bạn kết nối nó với một chiếc màn hình và gắn bàn phím và chuột.
+The Raspberry Pi is a small computer that can do lots of things. You plug it into a monitor and attach a keyboard and mouse.
 
-![ảnh chụp màn hình](images/pi-plug-in.gif)
+![screenshot](images/pi-plug-in.gif)
 
-### Những gì bạn sẽ học
+### What you will learn
 
-Dự án này bao gồm các phần và kiến thức trong [Giáo trình Raspberry Pi Digital Making](http://rpf.io/curriculum){:target="_blank"} sau đây:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Sử dụng các linh kiện kỹ thuật số, analog và cơ điện tử cơ bản](https://curriculum.raspberrypi.org/physical-computing/creator/){: target = "_ blank"}
++ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
 
-### Thông tin bổ sung cho người hướng dẫn
+### Additional information for educators
 
-Nếu bạn cần in dự án này, vui lòng sử dụng [Phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started/print){:target="_blank"}.
 
-Sử dụng đường link ở cuối trang để truy cập vào repo GitHub cho dự án này, chứa tất cả các tài nguyên (bao gồm một dự án mẫu đã hoàn thành) trong thư mục 'en/resources'.
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
