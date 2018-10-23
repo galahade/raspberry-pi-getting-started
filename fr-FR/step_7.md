@@ -1,43 +1,43 @@
-## Surfer sur le web
+## Browsing the web
 
-Tu peux connecter ton Raspberry Pi à Internet. Si tu n'as pas branché un câble ethernet ou connecté via le WiFi durant l'installation, tu ne pourras pas te connecter pour le moment.
+You might want to connect your Raspberry Pi to the internet. If you didn't plug in an ethernet cable or connect to a WiFi network during the setup, then you can connect now.
 
-+ Clique sur l'icône avec des croix rouges dans le coin supérieur droit de l'écran et sélectionne ton réseau sur le menu déroulant. Tu devras peut-être demander à un adulte quel réseau choisir.
++ Click the icon with red crosses in the top right-hand corner of the screen, and select your network from the drop-down menu. You may need to ask an adult which network you should choose.
 
-![pas de WiFi](images/no-wifi.png)
+![No wifi](images/no-wifi.png)
 
 \--- collapse \---
 
 * * *
 
-## title: Paramétrer le pays de la WiFi
+## title: Set Wi-Fi Country
 
-Si le message "Définir le pays Wi-Fi dans l'onglet Localisation" s'affiche lorsque tu tentes de te connecter à ton réseau Wi-Fi:
+If you see the message "Set Wi-Fi Country on Localisation tab" when trying to connect to your Wi-Fi network:
 
-![définit le pays wifi](images/pi-set-wifi-country.png)
+![set wifi country](images/pi-set-wifi-country.png)
 
-+ Sélectionne **Préférences** puis **Raspberry Pi Configuration** dans le menu.
++ Select **Preferences** and then **Raspberry Pi Configuration** from the menu.
 
-+ Va à l'onglet **Localisation**.
++ Go to the **Localisation** tab.
 
-+ Clique sur le bouton **Définir le pays WiFi**.
++ Click the **Set WiFi Country** button.
 
-![sélectionne le pays wifi](images/pi-select-wifi-country.png)
+![select wifi country](images/pi-select-wifi-country.png)
 
-+ Sélectionne ton pays dans la liste et clique sur **OK**.
++ Select your country from the list and click **OK**.
 
-Une fois ton pays Wi-Fi défini, tu peux te connecter à un réseau sans fil.
+Once you Wi-Fi country is set, you can connect to a wireless network.
 
 \--- /collapse \---
 
-+ Met le mot de passe de ton réseau sans fil ou demande à un adulte de le faire pour toi, puis clique sur **OK**.
++ Type in the password for your wireless network, or ask an adult to type it for you, then click **OK**.
 
-![Entrer le mot de passe](images/type-password.png)
+![Type in password](images/type-password.png)
 
-+ Une fois ton Pi connecté à Internet, tu verras un symbole LAN sans fil à la place des croix rouges.
++ When your Pi is connected to the internet, you will see a wireless LAN symbol instead of the red crosses.
 
-![capture d'écran](images/pi-wifi.png)
+![screenshot](images/pi-wifi.png)
 
-+ Clique sur l'icône du navigateur Web et recherche `raspberry pi`.
++ Click the web browser icon and search for `raspberry pi`.
 
-![capture d'écran](images/pi-browser.png)
+![screenshot](images/pi-browser.png)
